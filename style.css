@@ -5,3 +5,12 @@
 body{
     background-color: yellow;
 }
+
+h2, h1{
+    font-weight: bold;
+    font-size: 35px;
+}
+
+h1{ 
+    text-align: center;
+}
